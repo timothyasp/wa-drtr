@@ -1,2 +1,2 @@
-# ne-drtr
-Nebraska Digital Right to Repair Campaign
+# wa-drtr
+Washington Right to Repair Campaign
